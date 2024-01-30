@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamravindrasahu
-- 👀 I’m interested in devdeloping solutions using Aritificial Intelligence
+- 👀 I’m interested in developing solutions using Aritificial Intelligence
 - 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on #ArtificialIntelligence #MachineLearning #GenerativeAI
 - 📫 Reach me out @https://www.linkedin.com/in/iamravindrasahu/
